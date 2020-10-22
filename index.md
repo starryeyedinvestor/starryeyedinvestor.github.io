@@ -1,5 +1,5 @@
 ---
-title: The Starry-Eyed Investor
+title: 🤩 The Starry-Eyed Investor
 layout: index
 ---
 

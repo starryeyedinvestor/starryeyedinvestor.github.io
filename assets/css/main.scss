@@ -1,0 +1,41 @@
+---
+---
+
+$font-size-base:              1.125rem;
+$line-height-base:            1.66;
+$enable-responsive-font-sizes:                true;
+
+//////////////
+// Spacing
+//////////////
+
+// Replace spacer 5 and add some spacers to the existing map.
+$spacer: 1rem; //default
+$spacers: (
+  0: 0,
+  1: ($spacer * .25),
+  2: ($spacer * .5),
+  3: $spacer,
+  4: ($spacer * 1.5),
+  5: ($spacer * 2),
+  6: ($spacer * 3),
+  7: ($spacer * 3.5),
+  8: ($spacer * 4),
+  9: ($spacer * 4.5)
+);
+
+@import "bootstrap";
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color: #FAFAFA;
+    color: #212121;
+}
+
+h2 {
+    margin-top: ($spacer * 3);
+}
+
+h3 {
+    margin-top: ($spacer * 1.5);
+}
