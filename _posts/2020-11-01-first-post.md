@@ -1,5 +1,5 @@
 ---
-title: Q4 2020: First post
+title: "Q4 2020: First post"
 layout: post
 ---
 
