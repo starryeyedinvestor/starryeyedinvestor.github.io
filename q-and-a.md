@@ -1,4 +1,10 @@
-Have a question you don't see below? Tweet at me.
+---
+title: Q&A
+layout: index
+---
+
+Have a question you don't see below? [Tweet at me](http://www.twitter.com).
+{: .lead}
 
 ## What about companies you don't like?
 Try to suspend judgement and donate a percentage of proceeds to causes that counter negative effects.
@@ -17,5 +23,3 @@ These are excellent systems that have been hugely inspirational for me. Here are
 - These systems recommend selling winners annually (after a year and a day to avoid capital gains). I prefer the approach of letting winners to allow for long-term growth and compounding. So I'm comfortable with holding gainers but reducing their weight.
 - The calculation of these screens are not transparent. It's not clear to me what calculations and assumptions they make and when things may be changed. I prefer basing my system around the independent analysis of Morningstar and using the 3M Screen as proxy for finding quality on sale.
 - If you really want to do these systems right, they require some manual calculations (unless you want to pay for the convenience). I don't want to calculate earnings yields or operation earnings, so I wanted something that would allow for as much automation and simple rules-based adjustments as possible.
-
-Have more questions or need clarification? Tweet at me.

@@ -1,5 +1,6 @@
 ---
 title: The System
+layout: index
 ---
 
 ## Before you do anything
