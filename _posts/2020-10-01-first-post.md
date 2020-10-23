@@ -1,6 +1,6 @@
 ---
 title: "Q4 2020: First post"
-layout: post
+layout: index
 ---
 
 This is the beginning. This post documents my starting point for this strategy.

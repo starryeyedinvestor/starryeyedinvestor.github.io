@@ -5,6 +5,8 @@ $font-size-base:              1.125rem;
 $line-height-base:            1.66;
 $enable-responsive-font-sizes:                true;
 
+$primary:       #00796b;
+
 //////////////
 // Spacing
 //////////////
@@ -25,6 +27,7 @@ $spacers: (
 );
 
 @import "bootstrap";
+@import "twemoji-amazing";
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;

@@ -5,3 +5,5 @@ baseurl: /sss
 sass:
     sass_dir: assets/bootstrap/scss
     
+plug-ins:
+    - twemoji

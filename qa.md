@@ -3,9 +3,6 @@ title: Q&A
 layout: index
 ---
 
-Have a question you don't see below? [Tweet at me](http://www.twitter.com).
-{: .lead}
-
 ## What about companies you don't like?
 Try to suspend judgement and donate a percentage of proceeds to causes that counter negative effects.
 

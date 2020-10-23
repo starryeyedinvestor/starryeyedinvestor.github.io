@@ -1,5 +1,5 @@
 ---
-title: The System
+title: Steps
 layout: index
 ---
 

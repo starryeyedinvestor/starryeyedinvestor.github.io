@@ -241,6 +241,8 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
+    twemoji (3.1.7)
+      nokogiri (~> 1.6)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     tzinfo (1.2.7)
@@ -256,6 +258,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  twemoji
 
 BUNDLED WITH
    2.1.4
