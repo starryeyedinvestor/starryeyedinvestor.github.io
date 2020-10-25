@@ -12,7 +12,7 @@ Understand and be comfortable with these things:
 ## What you need to get started
 - Money to invest.
 - Investment account.
-- Morningstar analyst reports and/or stock screeners.
+- Morningstar analyst reports and stock screener.
 
 ### Money to invest
 You need money to make money. The more the merrier. And even more importantly, the more _regular contributions_ the merrier. Although the review of holdings only occurs quarterly, it's preferable to set up regular contributions as often as comfortable within your budget.
@@ -21,8 +21,7 @@ You need money to make money. The more the merrier. And even more importantly, t
 I recommend [M1 Finance](https://m1.finance/m19w_pCEnCTe) (referral link) because of the automation. You can set up periodic transfers to the account from your bank. You can choose how much cash to hold outside of the pie (or even none). Any cash over the threshold will automatically be invested in the pie and distributed according to the target slice percentages. Once you set it up, you don't have to do much other than check in on the 3M screen every few months and maybe remove some slices once in a while. You could also recreate something with other discount brokers like Schwab (where I keep other investment accounts), but it will take some manual work.
 
 ### Morningstar analyst reports and stock screener
-(This may be available through your library or discount broker. I will also post the results of the screen I run on a regular basis.)
-
+This is the not-so-secret sauce of the starry-eyed system. If you don't have some level of confidence in the plausibility of the Morningstar analysis of equities, this system won't work for you. My hypothesis is that by limiting the screen to quality on sale using the “3M factors,” I can tilt the odds in my favor with a concentrated strategy that doesn't require living a double life or completely handing my portfolio over to another human or a robot. Access to Morningstar data may be available through your library or a discount broker like Schwab if you already have an account. I will post the results of the quarterly screen in the blog.
 
 ## How it works
 
