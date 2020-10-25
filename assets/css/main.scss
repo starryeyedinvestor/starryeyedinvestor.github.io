@@ -26,6 +26,8 @@ $spacers: (
   9: ($spacer * 4.5)
 );
 
+$border-width:                2px;
+
 @import "bootstrap";
 
 body {

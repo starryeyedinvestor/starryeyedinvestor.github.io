@@ -40,7 +40,7 @@ This is the screen using Morningstar analyst data. I also limit the results to U
 - Morningstar Moat: Narrow or wide
 
 ### 2. Adjust pie slices.
-This assumes you're holding about 20 companies in your pie. (See Holdings.)
+This assumes you're holding about 20 companies in your pie. (See [Q&A](qa.html).)
 
 When buying new companies:
 - If the star rating is 5, set the pie slice percentage to 5.
