@@ -1,10 +1,6 @@
-title: 🤩 The Starry-Eyed Investor
+title: The Starry-Eyed Investor
 
 baseurl: /sss
 
 sass:
     sass_dir: assets/bootstrap/scss
-    
-plug-ins:
-    - twemoji
-    
