@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>1f929 copy</title>
+    <title>star-eyes</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1f929-copy" fill-rule="nonzero">
+        <g id="star-eyes" fill-rule="nonzero">
             <path d="M36,18 C36,27.941 27.941,36 18,36 C8.059,36 0,27.941 0,18 C0,8.059 8.059,0 18,0 C27.941,0 36,8.059 36,18" id="Path" fill="#FDD835"></path>
             <path d="M18,21 C14.377,21 11.973,20.578 9,20 C8.321,19.869 7,20 7,22 C7,26 11.595,31 18,31 C24.404,31 29,26 29,22 C29,20 27.679,19.868 27,20 C24.027,20.578 21.623,21 18,21 Z" id="Path" fill="#616161"></path>
             <path d="M9,22 C9,22 12,23 18,23 C24,23 27,22 27,22 C27,22 25,26 18,26 C11,26 9,22 9,22 Z" id="Path" fill="#FFFFFF"></path>
