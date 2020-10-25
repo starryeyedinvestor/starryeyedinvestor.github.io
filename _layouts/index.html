@@ -13,13 +13,13 @@
     <title>{{site.title}}</title>
   </head>
   <body>
-    <div class="container col-md-6 pt-4">
+    <nav class="container col-md-6 pt-4">
       <ul class="nav justify-content-start font-weight-bold flex-column flex-sm-row">
         <li class="nav-item">
-          <span class="nav-link pl-0"><i class="twa twa-2x twa-star-struck"></i></span>
+          <a class="nav-link pl-0" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/star-eyes.svg" alt="star-eyes emoji"></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="{{site.baseurl}}/index.html">Home</a>
+          <a class="nav-link active" href="{{site.baseurl}}/">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{site.baseurl}}/steps.html">Steps</a>
@@ -34,16 +34,16 @@
           <a class="btn btn-outline-primary" href="twitter.com">Tweet at me</a>
         </li>
       </ul>
-    </div>
-    <div class="container col-md-6 py-8">
+    </nav>
+    <main class="container col-md-6 py-8">
       <h1 class="font-weight-bold">{{page.title}}</h1>
       {{content}}
       <footer class="mt-5">
-          <strong>
+          <em>
               Have feedback or giving this system (or something like it) a try on your own? I'd love to hear from you. <a href="http://twitter.com">Tweet at me: @starryeyes</a>
-          </strong> 
+          </em> 
       </footer>
-    </div>
+    </main>
     
     
 
