@@ -1,6 +1,6 @@
 title: The Starry-Eyed Investor
 
-baseurl: /sss
+baseurl: "/"
 
 sass:
     sass_dir: assets/bootstrap/scss
