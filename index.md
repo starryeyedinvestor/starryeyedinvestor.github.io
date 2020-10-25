@@ -3,7 +3,7 @@ title: The Starry-Eyed Investor
 layout: index
 ---
 
-A value investing strategy that uses existing, independent, and trustworthy research in a simple, repeatable, automated process.
+{{site.description}}
 {: .lead}
 
 ## Principles
