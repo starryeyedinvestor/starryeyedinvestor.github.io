@@ -23,7 +23,7 @@ Try to suspend judgement and donate a percentage of proceeds to causes that coun
 
 ## What books should I read?
 These books have been particularly informative and inspirational for me: (These are Amazon affiliate links.)
-- The Little Book That Beats the Market (Greenblatt)
-- The Acquirer's Multiple (Carlisle)
-- The Dhando Investor (Pabrai)
-- The Education of a Value Investor (Spier)
+- [The Little Book That Beats the Market](https://amzn.to/2Toelsb) (Greenblatt)
+- [The Acquirer's Multiple](https://amzn.to/2ToeVpV) (Carlisle)
+- [The Dhando Investor](https://amzn.to/37H4khZ) (Pabrai)
+- [The Education of a Value Investor](https://amzn.to/3kwBSmA) (Spier)
