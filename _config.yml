@@ -4,3 +4,6 @@ description: "A value investing strategy that uses existing, independent, and tr
 
 sass:
     sass_dir: assets/bootstrap/scss
+
+plugins:
+  - jekyll-admin
